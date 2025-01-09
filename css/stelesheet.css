@@ -1,0 +1,149 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+#main_section {
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 226px 158px;
+    align-items: center;
+    background: #FFF;
+
+}
+
+#section {
+    padding: 96px;
+    align-items: center;
+    align-self: stretch;
+    background: #1B0E0F;
+
+}
+
+#fearutes_section {
+    max-width: 1412px;
+    width: 100%;
+    padding: 96px 0px;
+    align-items: center;
+    background: #FFF;
+}
+
+#Our_blog {
+    color: #002AFE;
+    text-align: center;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: var(--Font-size-text-md, 16px);
+    font-weight: 600;
+}
+
+h1 {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: -0.96px;
+}
+
+#p_text {
+    color: #535862;
+    text-align: center;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: var(--Font-size-text-xl, 20px);
+    font-style: normal;
+    font-weight: 400;
+    line-height: var(--Line-height-text-xl, 30px);
+}
+
+.logoimage {
+    width: 600px;
+    height: 462px;
+    border-radius: 16px;
+    background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+    vertical-align: middle;
+    margin-left: 66px;
+    margin-top: 56px;
+
+}
+
+.collaboration_p {
+    color: #535862;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    max-width: 584px;
+    width: 100%;
+    height: 143px;
+}
+
+.blog {
+    display: inline-block;
+}
+
+.blog_p_text {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 96px;
+
+}
+
+.blog_p_text1 {
+    margin-top: 24px;
+
+}
+
+.arrow-up-right_logo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 100px;
+}
+
+.arrow-up-right_logo1 {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 110px;
+}
+
+.Design {
+    color: #6941C6;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.collaboration_p_div {
+    max-width: 584px;
+    width: 100%;
+    height: 143px;
+}
+
+.p_one {
+    display: inline;
+    vertical-align: middle;
+    color: #181D27;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    max-width: 544px;
+    height: 32px;
+    margin-top: 8px;
+}
+
+.Avatarlogo {
+    vertical-align: middle;
+
+}
+
+.resources {
+    vertical-align: middle;
+    display: inline-block;
+
+}
